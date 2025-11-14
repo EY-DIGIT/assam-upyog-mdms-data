@@ -7,8 +7,8 @@
       "code": "as",
       "qrCodeURL":"https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
       "bannerUrl": "https://upyog-assets.s3.ap-south-1.amazonaws.com/bannerImage.png",
-      "logoUrl": "https://assamey-public.s3.ap-south-1.amazonaws.com/govt_assam_logo.png",
-      "logoUrlWhite": "https://assamey-public.s3.ap-south-1.amazonaws.com/govt_assam_logo.png",
+      "logoUrl": "https://assamey-filestore.s3.ap-south-1.amazonaws.com/assets/govt_assam_logo.png",
+      "logoUrlWhite": "https://assamey-filestore.s3.ap-south-1.amazonaws.com/assets/govt_assam_logo.png",
       "statelogo":"https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "hasLocalisation": true,
       "defaultUrl": {
